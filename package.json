@@ -1,0 +1,21 @@
+{
+  "name": "discow-transsly-bots",
+  "version": "1.0.0",
+  "description": "Kendini Allah Sanan kod çalıp paylaşılmış bot editleyen türeme orospu evlatlarına gelsin. Eziksiniz sfiakfsaşif",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "discowzombietranssly",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "discowdb": "^1.0.1",
+    "table": "^6.7.2"
+  }
+}
